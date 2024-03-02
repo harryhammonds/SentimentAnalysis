@@ -3,7 +3,7 @@
 //  sentimentanalysis
 //
 //  FOR THIS FILE ONLY:
-//  Copyright © 2022 Apple Inc.
+//  modified apple SpeechRecognizer.swift example file
 //  MIT LICENCE
 
 import Foundation
